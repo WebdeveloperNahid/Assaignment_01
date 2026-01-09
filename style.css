@@ -52,8 +52,105 @@
 
 .header {
     width: 90%;
+    margin: 0 auto;
     height: 674px;
     background-image: url(./assets/hero-bg.png);
+    background-size: cover;
 
 
+
+
+
+}
+
+
+.header-container {
+    width: 90%;
+    padding: 72px 120px;
+    text-align: center;
+    padding-top: 150px;
+    
+}
+
+.head-early {
+    width: 229px;
+    height: 36px;
+    border-radius:20px;
+    background-color: #FFFFFF;
+    color: #30B868;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 12px;
+    margin: 0 auto;
+
+}
+
+.head-text {
+    font-family: inter;
+    font-weight: bold;
+    color:#FFFFFF;
+    font-size: 25px;
+    margin-top: 16px;
+    margin-bottom: 60px                            ;
+    
+
+}
+
+.h-h1 {
+    color: #30B868;
+    margin: 0 auto;
+}
+
+.head-para {
+    color: #FFFFFF;
+    font-family: inter;
+
+}
+
+.head-button {
+    margin-top: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    gap: 20px;
+
+}
+
+.btn1 {
+
+    height: 52px;
+    font-weight: 251px;
+    background-color: #30B868;
+    padding: 12px 16px;
+    border-radius: 4px;
+    align-content: center;
+
+}
+
+.btn2 {
+    height: 52px;
+    width: 198px;
+    border: 2px solid #FFFFFF;
+    padding: 12px 16px;
+    align-content: center;
+
+}
+
+.header_note {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: inter;
+    font-weight: bold;
+  
+}
+
+.header_note p {
+    font-size: small ;
+    color: rgb(43, 42, 42);
+    padding-top: 15px;
 }
