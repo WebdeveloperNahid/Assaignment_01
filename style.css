@@ -138,6 +138,14 @@
 
 }
 
+.btn {
+    padding-right: 8px;
+}
+.Btn {
+    padding-left: 8px;
+}
+
+
 .header_note {
     width: 90%;
     margin: 0 auto;
