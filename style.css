@@ -57,18 +57,13 @@
     background-image: url(./assets/hero-bg.png);
     background-size: cover;
 
-
-
-
-
 }
 
 
 .header-container {
-    width: 90%;
-    padding: 72px 120px;
+    padding: 120px;
     text-align: center;
-    padding-top: 150px;
+
     
 }
 
@@ -145,6 +140,7 @@
     padding-left: 8px;
 }
 
+/* header-note */
 
 .header_note {
     width: 90%;
@@ -170,12 +166,11 @@
 }
 
 .notes {
-    width: 94%;
+    padding: 120px;
     display: flex;
     gap: 24px;
     margin: 0 auto;
     justify-content: space-between;
-    padding-top: 50px;
 
 }
 
@@ -214,6 +209,9 @@
     margin: 0 auto;
 }
 
+
+ /* Main-brain-section */
+
 .main-brain {
     width: 90%;
     margin: 0 auto;
@@ -223,7 +221,6 @@
 }
 
 .brain-container {
-    width:90%;
     padding: 120px;
     border: 2px soldi greenyellow;
     display: flex;
@@ -255,3 +252,27 @@
 
     
 }
+
+
+/* Main-ready-section */
+
+.main-ready {
+    width: 90%;
+    margin: 0 auto;
+    padding: 120px;
+
+
+}
+
+
+.ready-container {
+    margin: 0 auto;
+    /* padding: 120px; */
+    background-color: #EEEBDE;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+} 
