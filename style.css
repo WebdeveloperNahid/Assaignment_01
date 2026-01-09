@@ -154,3 +154,52 @@
     color: rgb(43, 42, 42);
     padding-top: 15px;
 }
+
+
+.all_notes {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.notes {
+    width: 94%;
+    display: flex;
+    gap: 24px;
+    margin: 0 auto;
+    justify-content: space-between;
+
+}
+
+.note-1 {
+    width: 322px;
+    height: 300px;
+    padding: 24px;
+    align-content: center;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow:#30B868;
+    background-color:whitesmoke;
+
+}
+
+.note-1 h2 {
+    color: #30B868;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: inter;
+    font-weight: bold;
+}
+
+.note-1 p {
+    color: rgb(59, 59, 59);
+    font-family: inter;
+}
+.note-1-img {
+    width: 60px;
+    height: 60px;
+    background-color: #F95555;
+    border-radius: 50%;
+    align-content: center;
+    text-align: center;
+    margin: 0 auto;
+}
