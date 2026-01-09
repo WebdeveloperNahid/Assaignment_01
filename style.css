@@ -206,3 +206,44 @@
     margin: 0 auto;
 }
 
+.main-brain {
+    width: 90%;
+    margin: 0 auto;
+    font-family: inter;
+    
+
+}
+
+.brain-container {
+    width:90%;
+    padding: 120px;
+    border: 2px soldi greenyellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+}
+
+.brain-text {
+    width: 700px;
+    height: 420px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+}
+
+.brain-header {
+    padding-bottom: 40px;
+}
+
+.brain-header p {
+    color: #30B868;
+    margin-bottom: 20px                                                ;
+}
+
+.brain-para {
+        padding-bottom: 40px;
+        color: rgb(59, 59, 59);
+
+    
+}
